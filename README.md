@@ -1,6 +1,5 @@
 ﻿# Corrida de dados
-
-![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
+![Status Finalizado](https://img.shields.io/badge/Status-Finalizado-green?color=Green)
 
 ### Demonstração
 >
